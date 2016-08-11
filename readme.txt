@@ -1,0 +1,1 @@
+玉米三个突变性状的相关snps,genes结果。其中word文档给出了筛选方法和结论，select snp.txt文档给出了候选SNP的具体信息。select genes.txt文档给出了候选SNP可能影响的genes具体信息。select .gwas,total .gwas,分别给出候选SNP在染色体分布与所有SNP在染色体分布（IGV软件打开）。
